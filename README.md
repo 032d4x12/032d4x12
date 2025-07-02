@@ -16,7 +16,7 @@
 - **Desarrollador Full-Stack en proceso**, con un enfoque especial en **JavaScript**.
 - **Autodidacta** en desarrollo web, aprendiendo tanto front-end como back-end.
 - Apasionado por la **resolución de problemas** y la creación de soluciones digitales efectivas.
-- Aunque no tengo experiencia laboral aún, estoy buscando activamente **oportunidades de prácticas o trabajo** en el área de desarrollo web.
+- estoy buscando activamente **oportunidades de prácticas o trabajo** en el área de desarrollo web.
 - Mi objetivo es unirme a un equipo donde pueda aplicar mis conocimientos y seguir aprendiendo sobre tecnologías como Node.js, Express y bases de datos.
 
 <br><br>
