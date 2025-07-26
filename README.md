@@ -89,8 +89,8 @@ Hola, soy **Javier**, un desarrollador en formación con enfoque **Full-Stack** 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-0xdev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-0xdev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=032d4x12&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=032d4x12&theme=radical" width="48%" />
 </p>
 
 ---
@@ -98,15 +98,15 @@ Hola, soy **Javier**, un desarrollador en formación con enfoque **Full-Stack** 
 ## 📫 ¡Conectemos!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-0xdev" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-rodriguez-7492332b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-carlos--0xdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/carlos_0xdev" target="_blank">
+  <a href="https://twitter.com/carloshjhxde" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@carlos_0xdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="mailto:carlos_0xdev@gmail.com">
+  <a href="email:javi3r.rdz01@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-carlos_0xdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
