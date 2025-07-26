@@ -16,10 +16,10 @@
 
 Hola, soy **Javier**, un desarrollador en formación con enfoque **Full-Stack** y una fuerte pasión por el aprendizaje continuo, el desarrollo de soluciones web modernas y la mejora constante de mis habilidades técnicas.
 
-- 🧠 Actualmente perfeccionando mis conocimientos en **JavaScript**, **Node.js** y tecnologías del ecosistema web.
-- 🔍 En búsqueda activa de **oportunidades profesionales o prácticas** en desarrollo web.
-- 💡 Interesado en áreas como: desarrollo web, APIs, bases de datos, testing, automatización y herramientas de desarrollo modernas.
-- 🎯 Objetivo a corto plazo: integrarme a un equipo donde pueda contribuir, aprender de otros profesionales y crecer en un entorno de colaboración ágil.
+- Actualmente perfeccionando mis conocimientos en **JavaScript**, **Node.js** y tecnologías del ecosistema web.
+- En búsqueda activa de **oportunidades profesionales o prácticas** en desarrollo web.
+- Interesado en áreas como: desarrollo web, APIs, bases de datos, testing, automatización y herramientas de desarrollo modernas.
+- Objetivo a corto plazo: integrarme a un equipo donde pueda contribuir, aprender de otros profesionales y crecer en un entorno de colaboración ágil.
 
 ---
 
@@ -99,15 +99,15 @@ Hola, soy **Javier**, un desarrollador en formación con enfoque **Full-Stack** 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/carlos-rodriguez-7492332b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-carlos--0xdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Javier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://twitter.com/carloshjhxde" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@carlos_0xdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-@Javier-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
   <a href="email:javi3r.rdz01@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-carlos_0xdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Javier-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
